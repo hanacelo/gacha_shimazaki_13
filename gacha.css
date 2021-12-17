@@ -1,0 +1,180 @@
+body{
+    height: 1000px;
+    width: 600px;
+    font-family:"ヒラギノ明朝 ProN" ;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-top:-20px; 
+    background-color: #99CCFF;
+}
+
+h1{
+    color: white;
+    text-shadow: 0 0 10px  #5507FF;
+
+}
+
+h2{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+}
+
+#result{
+    width: autp;
+    height: 200px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: -40px;
+}
+
+#retsu{
+    display: flex;
+    text-align: center;
+    padding-left: 150px;
+    margin-left: 20px
+}
+
+#shokan{
+    font-family:;
+    font-size: 20px;
+    color: #FFFF33;
+    border: solid 50px #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%;
+    border-width: 5px;
+    text-shadow: 0 0 20px  #FF9900;
+    margin-top: 150px;
+
+}
+
+#gentei{
+    font-family:"ヒラギノ明朝 ProN" ;
+    font-size: 20px;
+    color: #FFFF33;
+    text-shadow: 0 0 20px  white;
+    background-color: #FF0000;
+    border: solid  #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%;
+    border-width: 5px;
+    border-radius: 50px 50px ;
+    margin-left: 10px;
+    width:  120px;
+    height: 35px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 150px;
+}
+
+#ikemen{
+    font-family:"ヒラギノ明朝 ProN" ;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0 0 10px  #5507FF;
+    margin-left: -39px;
+}
+
+button{
+    font-family:"ヒラギノ明朝 ProN" ;
+    font-size: 30px;
+    color: #006633;
+    background-color: #FFFF33;
+    border: solid 50px #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%;
+    border-width: 5px;
+    border-radius: 30px 30px;
+    margin-left: -39px;
+    width: 150px;
+    height: 60px;
+    
+}
+
+h4{
+    color: white;
+    font-size: 25px;
+    margin-top: -60px;
+    text-shadow: 0 0 10px  #5507FF;
+    
+}
+
+li:hover {
+    background: #0d7dfd;
+    color: #fff;
+    text-shadow: 0 0 10px  #5507FF;
+
+  }
+
+#save{
+    font-family:"ヒラギノ明朝 ProN" ;
+    font-size: 20px;
+    color: #006633;
+    background-color: #FFFF33;
+    border: solid  #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%;
+    border-width: 5px;
+    border-radius: 50px 50px;
+    margin-left: 10px;
+    width:  80px;
+    height: 20px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+    z-index: 1;
+    margin-left: 220px;
+}
+
+#clear{
+    font-family:"ヒラギノ明朝 ProN" ;
+    font-size: 20px;
+    color: #006633;
+    background-color: #FFFF33;
+    border: solid  #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%;
+    border-width: 5px;
+    border-radius: 50px 50px;
+    margin-left: 10px;
+    width:  80px;
+    height: 20px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+
+}
+
+
+ul {
+    padding: 0;
+    border-top: 1px solid #000000;
+    display: table; /* 定義 */
+    table-layout: fixed;
+    width: 96%;
+    font-size: 80%;
+    margin: 0 3%;
+    text-align: center;
+    display: flex;
+    margin-left: -46px;
+}
+
+li {
+    list-style-type: none;
+    border: 1px solid #666;
+    background-color: #fff;
+    display: table-cell; /* 定義 */
+    cursor: pointer;
+    color: #0d7dfd;
+  }
+
+  #list{
+      margin-top: 10px;
+      margin-left: 210px;
+      font-family: "ヒラギノ明朝 ProN";
+      font-size: 20px;
+      color: white;
+      text-shadow: 0 0 20px  #5507FF;
+  }
+
+
+#namae{
+    margin-top: 250px;
+    font-size: 30px;
+    margin-left: -37px;
+}
+#rarelity{
+    font-size: 30px;
+    margin-left: -37px;
+}
